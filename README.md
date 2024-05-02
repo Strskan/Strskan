@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Strskan
+- 👋 Hi, I’m Setareh
 - 👀 I’m interested in mathematics and programming
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about *data* and *math*
